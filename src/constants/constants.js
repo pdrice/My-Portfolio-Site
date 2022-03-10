@@ -17,6 +17,15 @@ export const projects = [
     visit: 'https://zodiacbling.com',
     id: 1,
   },
+  {
+    title: 'To Do List App',
+    description:"A basic To-Do List Application",
+    image: '/images/todolistscreen.PNG',
+    tags: ["HTML", "CSS", 'JavaScript', "React"],
+    source: 'https://github.com/pdrice/To-Do-List-Made-w-React',
+    visit: 'https://github.com/pdrice/To-Do-List-Made-w-React',
+    id: 1,
+  },
 ];
 
 export const TimeLineData = [
