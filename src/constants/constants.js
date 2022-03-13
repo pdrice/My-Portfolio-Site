@@ -26,6 +26,15 @@ export const projects = [
     visit: 'https://github.com/pdrice/To-Do-List-Made-w-React',
     id: 1,
   },
+  {
+    title: 'Feedback UI',
+    description:"A basic feedback app.",
+    image: '/images/Feedbackscreen.PNG',
+    tags: ["HTML", "CSS", 'JavaScript', "React"],
+    source: 'https://github.com/pdrice/Feedback-UI',
+    visit: 'https://github.com/pdrice/Feedback-UI',
+    id: 1,
+  },
 ];
 
 export const TimeLineData = [
