@@ -37,7 +37,7 @@ const Hero = (props) => (
                         </h1>
         </SectionText>
         
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <a href="#projects"><Button onClick={props.handleClick}>Learn More</Button></a>
       </LeftSection>
     </Section>
   </>
